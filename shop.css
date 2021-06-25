@@ -1,3 +1,28 @@
+
+
+.second{
+    background-color: #333333;
+}
+
+.second_txt{
+    color: #fff;
+}
+
+
+
+ul.menu_links2 li{
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    text-transform: uppercase;
+} 
+ul.menu_links2 li a{
+    color: #fff;
+    text-decoration: none;
+}
+
+
 .head_link{
     padding: 10px 10px;
 }

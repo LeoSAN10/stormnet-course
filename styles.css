@@ -656,8 +656,9 @@ font-weight: 600;
 }
 
 .service_intro > .intro_text div{
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 64px;
+  margin-right: 22px;
+
 }
 
 .serv_intro_list{
@@ -688,7 +689,7 @@ padding-right: 8px;
 .service_box{
   display: flex;
   flex-wrap: wrap;
-  width: 1120px;
+  width: 952px;
   text-align: center;
   border: 1px solid #F1F0F0;
 }

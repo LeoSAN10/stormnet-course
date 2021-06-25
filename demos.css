@@ -95,3 +95,10 @@
     align-items: baseline;
     padding-bottom: 67px;
   }
+
+
+
+  .right_content {
+    margin-left: 0px;
+    width: 523px;
+  }

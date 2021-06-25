@@ -20,7 +20,7 @@ body{
    }
 
 .container_main{
-    max-width: 1921px;
+    max-width: 1920px;
     margin: 0 auto;
 }
 
@@ -182,7 +182,7 @@ ul.menu_links li a:hover{
   }
   .dots{
       position: absolute;
-      bottom: 10px;
+      bottom: 45px;
       margin-left: 48%;
   }
   .active, .dot:hover {
@@ -334,7 +334,7 @@ ul.menu_links li a:hover{
 
 .portfolio_list{
   display: grid;
-  grid-template-columns: 380px 380px 380px 380px;
+  grid-template-columns: 379px 380px 380px 380px;
   grid-template-rows: 421px 421px;
   
 }
@@ -509,7 +509,7 @@ font-weight: 600;
   text-align: center;
 
   border-right: 1px solid rgb(59, 59, 59);
-   width: 263px;
+   width: 253px;
 }
 .number_animation > .number_block:nth-child(1){
   border-top: 2px solid #86D375;
@@ -578,6 +578,11 @@ font-weight: 600;
 
 
 /* wordpress slider */
+
+
+.wordpress{
+  height: 854px;
+}
 
 
 
@@ -683,7 +688,7 @@ padding-right: 8px;
 .service_box{
   display: flex;
   flex-wrap: wrap;
-  width: 1015px;
+  width: 1120px;
   text-align: center;
   border: 1px solid #F1F0F0;
 }
@@ -1094,7 +1099,7 @@ padding-bottom: 56px;
 .mySlides3 {
   display: none;
   filter: brightness(30%);
-  height: 890px;
+
 }
 
 .twitter > .slideshow-container > .text{
